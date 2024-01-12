@@ -1,0 +1,36 @@
+_repo: The-spirit-of-American-sculpture_72502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adams, Adeline
+    alias: Adams, Adeline Valentine Pond
+    birthdate: 1859
+    deathdate: 1948
+    gutenberg_agent_id: '56708'
+    url: http://www.gutenberg.org/2009/agents/56708
+    wikipedia: https://en.wikipedia.org/wiki/Adeline_Pond_Adams
+description: ''
+gutenberg_issued: '2023-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72502'
+  lccn: '23009843'
+language: en
+pgterms:marc904: https://archive.org/details/spiritofamerican0000adel/page/n7/mode/2up
+pgterms:marc905: 20230507063404adams
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive
+  and by HathiTrust)
+publication_note: '  $aNew York :$bThe National Sculpture Society, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sculpture, American'
+- !lcsh 'Sculpture -- United States -- History'
+- !lcc 'NB'
+- GITenberg
+title: The spirit of American sculpture
+url: http://www.gutenberg.org/ebooks/72502
